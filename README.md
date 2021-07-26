@@ -22,7 +22,7 @@ and then using as
 ./passwordgen.js
 ```
 ## Features
-* Uses a secure random algorithm generator 
+* Uses a secure algorithm for random generation
 * You can provide a number as argument that will result in the length of your password
 ```bash
 ./passwordgen.js 25
