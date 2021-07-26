@@ -28,4 +28,4 @@ You can provide a number as argument that will result in the length of your pass
 ```
 or it will be generated randomly in the range of 11-20
 
-![preview](./passwdgen.gif)
+![passwdgen](https://user-images.githubusercontent.com/44353611/126944296-b18a79e3-9302-408d-ba67-3e65d5dee88f.gif)
