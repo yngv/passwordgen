@@ -9,22 +9,22 @@ git clone https://github.com/yngv/passwordgen.git
 ## Usage
 Then you can type
 ```bash
-node passcreator.js 
+node passwordgen.js 
 ``` 
 to use it
 
 **or you can give it execution privileges to run just like the gif below by typing**
 ```bash
-sudo chmod +x passcreator.js
+sudo chmod +x passwordgen.js
 ```
 and then using as
 ```bash
-./passcreator.js
+./passwordgen.js
 ```
 ## Features
 You can provide a number as argument that will result in the length of your password
 ```bash
-./passcreator 20
+./passwordgen.js 25
 ```
 or it will be generated randomly in the range of 11-20
 
